@@ -1,0 +1,19 @@
+		{
+			"name": "ExportPC1",
+			"title": "Export PCs 1",
+			"description": "A module containing 5th Level PCs",
+			"author": "Zach Prime",
+			"version": "1.0.0",
+			"minimumCoreVersion": "0.6.0",
+			"compatibleCoreVersion":"0.7.0",
+			"packs": [
+    					{
+      					"name": "pcexport",
+      					"label": "PCs at 5th Level",
+      					"path": "packs/exportpc.db",
+      					"entity": "Actor",
+      					"module": "exportpc"
+						}
+					]
+		  }
+		
