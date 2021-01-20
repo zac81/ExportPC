@@ -1,0 +1,29 @@
+{"_id": "4m4Nkx4jmhNQHVpF", "name": "Player Characters", "type": "Actor", "sort": null, "flags": {}, "parent": null, "color": ""}
+{"_id": "XdFTg4Is1WyFRPIe", "name": "NPCs", "type": "Actor", "sort": null, "flags": {}, "parent": null, "color": ""}
+{"_id": "f7uYpUf0K3areTdQ", "name": "LootNPCs", "type": "Actor", "sort": null, "flags": {}, "parent": null, "color": ""}
+{"_id": "aW64MPYUAiV81Clr", "name": "Map Notes", "type": "JournalEntry", "sort": null, "flags": {}, "parent": null, "color": ""}
+{"_id": "1kFLTczONX05mrNZ", "name": "Rise of the Runelords Chapter 3 The Hook Mountain Massacre", "type": "JournalEntry", "sort": null, "flags": {}, "parent": "aW64MPYUAiV81Clr", "color": ""}
+{"_id": "vUWa2xBRqdobpALD", "name": "Images", "type": "JournalEntry", "sort": null, "flags": {}, "parent": null, "color": ""}
+{"_id": "NZ91WZi1uvXIuU4v", "name": "Rise of the Runelords Chapter 3 The Hook Mountain Massacre", "type": "JournalEntry", "sort": null, "flags": {}, "parent": "vUWa2xBRqdobpALD", "color": ""}
+{"_id": "WwBgovXM1igSjoXh", "name": "Rise of the Runelords, Chapter 3, The Hook Mountain Massacre", "type": "JournalEntry", "sort": null, "flags": {}, "parent": null, "color": ""}
+{"_id": "j6XHjhxeVC3gbvuh", "name": "Foreword", "type": "JournalEntry", "sort": 0, "flags": {}, "parent": "WwBgovXM1igSjoXh", "color": ""}
+{"_id": "a2coyQiSKrClATDn", "name": "Versioning and Legal", "type": "JournalEntry", "sort": 0, "flags": {}, "parent": "j6XHjhxeVC3gbvuh", "color": ""}
+{"_id": "j5wBGevW57M3DlHx", "name": "Adventure Introduction", "type": "JournalEntry", "sort": 1, "flags": {}, "parent": "j6XHjhxeVC3gbvuh", "color": ""}
+{"_id": "OVOuWoTtnAxtmc9U", "name": "Adventure: The Hook Mountain Massacre", "type": "JournalEntry", "sort": 1, "flags": {}, "parent": "WwBgovXM1igSjoXh", "color": ""}
+{"_id": "yGW9cppxG4yy8oRR", "name": "Chapter Background", "type": "JournalEntry", "sort": 0, "flags": {}, "parent": "OVOuWoTtnAxtmc9U", "color": ""}
+{"_id": "cFRrahvhIbWCa8CR", "name": "Part One: In the Hook's Shadow", "type": "JournalEntry", "sort": 1, "flags": {}, "parent": "OVOuWoTtnAxtmc9U", "color": ""}
+{"_id": "vECFI0ZtBewretRo", "name": "Part Two: Retaking Rannick", "type": "JournalEntry", "sort": 2, "flags": {}, "parent": "OVOuWoTtnAxtmc9U", "color": ""}
+{"_id": "ygQ8CmMoYGyHy4PK", "name": "Part Three: Down Comes The Rain", "type": "JournalEntry", "sort": 3, "flags": {}, "parent": "OVOuWoTtnAxtmc9U", "color": ""}
+{"_id": "pJc0TYA76TwK2Jw8", "name": "Part Four: The Haunted Heart", "type": "JournalEntry", "sort": 4, "flags": {}, "parent": "OVOuWoTtnAxtmc9U", "color": ""}
+{"_id": "rJALGSgIHo5JWFQ9", "name": "Part Five: Harrowing The Hook", "type": "JournalEntry", "sort": 5, "flags": {}, "parent": "OVOuWoTtnAxtmc9U", "color": ""}
+{"_id": "Ta0gytFYwQbuExNu", "name": "Concluding the Chapter", "type": "JournalEntry", "sort": 6, "flags": {}, "parent": "OVOuWoTtnAxtmc9U", "color": ""}
+{"_id": "isUE7CK4h6b5R3uh", "name": "Appendices", "type": "JournalEntry", "sort": 2, "flags": {}, "parent": "WwBgovXM1igSjoXh", "color": ""}
+{"_id": "MAEuMbq8xig7XGFM", "name": "Appendix: Turtleback Ferry", "type": "JournalEntry", "sort": 0, "flags": {}, "parent": "isUE7CK4h6b5R3uh", "color": ""}
+{"_id": "co3EVDsUHbISwiCh", "name": "Appendix: Rule References", "type": "JournalEntry", "sort": 1, "flags": {}, "parent": "isUE7CK4h6b5R3uh", "color": ""}
+{"_id": "BTUmZAOQ3TukIKGm", "name": "Appendix: Bestiary", "type": "JournalEntry", "sort": 2, "flags": {}, "parent": "isUE7CK4h6b5R3uh", "color": ""}
+{"_id": "0k61SrFgUA61waPg", "name": "Appendix: New Rules", "type": "JournalEntry", "sort": 3, "flags": {}, "parent": "isUE7CK4h6b5R3uh", "color": ""}
+{"_id": "WkpSba9Fw2aeji8z", "name": "Appendix: Magic Items", "type": "JournalEntry", "sort": 4, "flags": {}, "parent": "isUE7CK4h6b5R3uh", "color": ""}
+{"_id": "jCHLkCHWAgmoUi1h", "name": "Items", "type": "Item", "sort": null, "flags": {}, "parent": null, "color": ""}
+{"_id": "oQPjVL1R5o7Jo4jZ", "name": "Traits", "type": "Item", "sort": null, "flags": {}, "parent": null, "color": ""}
+{"_id": "DouB1i2cLDkTmH8K", "name": "Features", "type": "Item", "sort": null, "flags": {}, "parent": null, "color": ""}
+{"_id": "ex0HRF3LEDFUoJVd", "name": "Feats", "type": "Item", "sort": null, "flags": {}, "parent": null, "color": ""}
