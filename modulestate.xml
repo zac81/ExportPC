@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="3.3">
+	<module name="DD Dungeon Masters Guide - Players">
+		<allow />
+	</module>
+	<module name="DD Morfenkainen's Tome of Foes Players">
+		<allow />
+	</module>
+	<module name="DD PHB Deluxe">
+		<allow />
+	</module>
+	<module name="DD Xanathar's Guide to Everything Players">
+		<allow />
+	</module>
+	<module name="Pathfinder Playtest Rules">
+		<allow />
+	</module>
+	<module name="Rise of the Runelords Chapter 1 Burnt Offerings">
+		<allow />
+	</module>
+	<module name="Rise of the Runelords Chapter 2 The Skinsaw Murders">
+		<allow />
+	</module>
+	<module name="Rise of the Runelords Chapter 3 The Hook Mountain Massacre">
+		<loaded />
+		<allow />
+	</module>
+	<module name="Rise of the Runelords Chapter 4 Fortress of the Stone Giants">
+		<allow />
+	</module>
+	<module name="Rise of the Runelords Chapter 5 Sins of the Saviors">
+		<allow />
+	</module>
+	<module name="Rise of the Runelords Chapter 6 Spires of Xin-Shalast">
+		<allow />
+	</module>
+	<module name="Volos Guide to Monsters Players">
+		<allow />
+	</module>
+</modulestate>

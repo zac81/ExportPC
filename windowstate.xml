@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.3">
+	<window data="" class="library" pos="779,342,1479,892" />
+	<window data="" class="moduleselection" pos="779,352,1479,882" />
+	<window data="" class="tokenbag" pos="879,367,1379,867" />
+	<window data="background" class="masterindex" pos="904,367,1354,867" />
+	<window data="battle" class="masterindex" pos="904,367,1354,867" />
+	<window data="encounter" class="masterindex" pos="904,367,1736,867" />
+	<window data="encounter.id-00001@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="encounter" pos="929,292,1329,942" />
+	<window data="encounter.id-00017@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="encounter" pos="929,292,1329,942" />
+	<window data="encounter.id-00054@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="encounter" pos="929,292,1329,942" />
+	<window data="encounter.id-00055@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="encounter" pos="929,292,1329,942" />
+	<window data="encounter.id-00057@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="encounter" pos="929,292,1329,942" />
+	<window data="encounter.id-00060@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="encounter" pos="929,292,1329,942" />
+	<window data="encounter.id-00061@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="encounter" pos="929,292,1329,942" />
+	<window data="encounter.id-00064@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="encounter" pos="929,292,1329,942" />
+	<window data="encounter.id-00066@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="encounter" pos="929,292,1329,942" />
+	<window data="image" class="masterindex" pos="904,367,1354,867" />
+	<window data="image.id-00024@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="imagewindow" pos="842,246,1416,988" />
+	<window data="image.id-00025@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="imagewindow" pos="854,287,1404,947" />
+	<window data="image.id-00061@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="imagewindow" pos="840,184,1420,1068" />
+	<window data="image.id-00099@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="imagewindow" pos="-105,576,1750,1811" />
+	<window data="item" class="masterindex" pos="904,367,1354,867" />
+	<window data="itemtemplate" class="masterindex" pos="904,367,1354,867" />
+	<window data="notes" class="masterindex" pos="904,367,1354,867" />
+	<window data="npc" class="masterindex" pos="904,367,1354,867" />
+	<window data="quest" class="masterindex" pos="904,367,1354,867" />
+	<window data="tables" class="masterindex" pos="904,367,1354,867" />
+	<window data="treasureparcels" class="masterindex" pos="820,437,1656,937" />
+
+	<image data="image.id-00061@Rise of the Runelords Chapter 3 The Hook Mountain Massacre" class="imagewindow" control="image" view="0,-24" zoom="1.2" />
+</windowstate>
